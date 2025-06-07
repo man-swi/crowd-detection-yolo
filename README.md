@@ -2,6 +2,8 @@
 
 This project is a **real-time crowd detection system** that processes a video to identify groups of people based on spatial proximity and temporal persistence. Using the **YOLOv8** object detection model, it tracks groups of individuals across frames and flags a crowd when certain criteria are met.
 
+![Image](https://github.com/user-attachments/assets/a1ce510f-0c20-47cb-a67d-821bef7bc939)
+
 ## 📌 Features
 
 - 🎯 Person detection using YOLOv8.
