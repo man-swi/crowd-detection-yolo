@@ -166,12 +166,9 @@ The script uses the `yolov8s.pt` model (YOLOv8 Small). If not available, it will
 * Real-time camera support
 * Web interface
 * Multi-class crowd analysis (e.g., kids, adults)
-* 
 
 ---
 
 ## ⭐️ Show Your Support
 
 If you found this helpful, consider giving a ⭐️ on GitHub!
-
-```
